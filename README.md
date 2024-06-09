@@ -1,4 +1,6 @@
-# Kotlin,Spring3でREST API作成
+# Kotlin,Spring　Boot3でREST API作成
+
+**参考記事**
 
 https://medium.com/@dpeachesdev/exploring-springboot3-with-kotlin-by-building-an-ecommerce-server-part-1-7c18e3241a97
 
